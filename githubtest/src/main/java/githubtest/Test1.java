@@ -3,6 +3,8 @@ package githubtest;
 public class Test1 {
 	public static void main(String[] args) {
 		System.out.println();
-		System.out.println(3);
+		System.out.println(9);
+		
+		//dddddddddddddddd
 	}
 }
